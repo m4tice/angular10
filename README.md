@@ -2,6 +2,11 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.2.
 
+## Application architecture
+<p align="center">
+  <img src="https://github.com/m4tice/angular10/blob/master/assets/application_architecture.PNG">
+</p>  
+
 ## Application view
 <p align="center">
   <img src="https://github.com/m4tice/angular10/blob/master/assets/department_view.PNG">
